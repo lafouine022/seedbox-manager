@@ -7,8 +7,8 @@ core:
       Pour pouvoir utiliser cette interface l'activation de javascript est nécessaire.
     modal:
       about_us: A propos
-      author: Application web par MThibault, Micdu70, Magicalex et Hydrog3n
-      contact_us: "Contacter les développeurs sur github : <a href=\"https://github.com/Magicalex/seedbox-manager/issues\" target=\"_blank\">https://github.com/Magicalex/seedbox-manager</a>"
+      author: Application web pour Seedbox Easy-tk
+      contact_us: "Contacter Easy-tk : <a href=\"https://easy-tk.biz\" target=\"_blank\">Easy-TK</a>"
       version: Version
       close: Fermer
 
