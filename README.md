@@ -17,7 +17,7 @@ seedbox-manager is web app for manage your seedbox.
 
 ```bash
 cd /var/www
-git clone https://github.com/Magicalex/seedbox-manager.git
+git clone https://github.com/lafouine022/seedbox-manager.git
 cd seedbox-manager
 composer install
 chown -R www-data: /var/www/seedbox-manager
