@@ -1,5 +1,5 @@
 # Description of seedbox-manager
-
+Author Magicalex https://github.com/Magicalex/seedbox-manager
 [![StyleCI](https://styleci.io/repos/18575839/shield?branch=master)](https://styleci.io/repos/18575839)
 
 ## Installation
