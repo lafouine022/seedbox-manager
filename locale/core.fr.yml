@@ -56,12 +56,12 @@ core:
     info_load_good: Charge faible, conditions optimales
     info_load_warning: Charge élévée, risque de ralentissement sur le serveur
     info_load_danger: Charge très élévée, risque de gros ralentissement sur le serveur
-    title_access: Les accès FTP - SFTP - Transdroid
-    server_ftp: Serveur FTP et SFTP
-    address_ftp: Adresse (s)FTP
-    user_ftp: Utilisateur (s)FTP
+    title_access: Les accès FTP - FTPS - Transdroid
+    server_ftp: Serveur FTP et FTPS
+    address_ftp: Adresse FTP(s)
+    user_ftp: Utilisateur FTP(s)
     port_ftp: Port FTP
-    port_sftp: Port sFTP
+    port_sftp: Port FTPs
     download_filezilla: Télécharger filezilla
     configuration_file: Importer le fichier de configuration
     app_transdroid: Application Transdroid
@@ -86,7 +86,7 @@ core:
     setting_interface: Paramètres de l'interface
     option_homepage: Options de la page d'accueil
     enable_info_user: Activer les informations utilisateur
-    enable_access_ftp: "Activer les information d'accès ftp / sftp / transdroid"
+    enable_access_ftp: "Activer les information d'accès ftp / ftps / transdroid"
     enable_reboot_rtorrent: Activer le redémarrage rtorrent
     option_logout: Option de déconnexion
     url_to_redirect: url de redirection (pendant la déconnexion)
@@ -112,7 +112,7 @@ core:
     folder_scgi: Dossier scgi de l'utilisateur
     legend_navbar: Barre de navigation
     follow_rules: Suivez correctement la syntaxe pour ajouter des liens
-    legend_setting_server: Paramètres des serveurs FTP/sFTP
+    legend_setting_server: Paramètres des serveurs FTP/FTPs
     port_ftp: Port FTP
     port_sftp: Port sFTP
     legend_support: Support
