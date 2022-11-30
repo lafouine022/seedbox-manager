@@ -2,25 +2,16 @@
 
 [![StyleCI](https://styleci.io/repos/18575839/shield?branch=master)](https://styleci.io/repos/18575839)
 
-seedbox-manager is web app for manage your seedbox.
-
- * reboot rtorrent session
- * custom links in navbar.
- * statistic server (load average, uptime)
- * download file config of filezilla and transdroid
- * admin area
- * logout for http basic authentication
-
 ## Installation
 
 *note : root privilege is required*
 
 ```bash
-cd /var/www
+cd /var/www/rutorrent
 git clone https://github.com/lafouine022/seedbox-manager.git
 cd seedbox-manager
 composer install
-chown -R www-data: /var/www/seedbox-manager
+chown -R www-data: /var/www/rutorrent/seedbox-manager
 cd source
 chmod +x install.sh && ./install.sh
 ```
